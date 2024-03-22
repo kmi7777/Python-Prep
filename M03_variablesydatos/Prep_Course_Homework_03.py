@@ -6,14 +6,14 @@
 # 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
 
 # In[7]:
-
-
-
+t = 32
+print (t)
 
 # 2) Imprimir el tipo de dato de la constante 8.5
 
 # In[3]:
-
+m = 8.5
+print (type(m))
 
 
 
@@ -21,14 +21,18 @@
 # 3) Imprimir el tipo de dato de la variable creada en el punto 1
 
 # In[8]:
-
-
+t = 32
+print(type(t))
 
 
 
 # 4) Crear una variable que contenga tu nombre
 
-# In[2]:
+# In[2]: 
+nombre = "camilo"
+print(nombre)
+
+
 
 
 
@@ -36,14 +40,15 @@
 # 5) Crear una variable que contenga un número complejo
 
 # In[3]:
-
-
-
+vari_comple = complex(3+5j)
+print (vari_comple)
 
 
 # 6) Mostrar el tipo de dato de la variable crada en el punto 5
 
 # In[4]:
+vari_comple = complex(3+5j)
+print (type(vari_comple))
 
 
 
