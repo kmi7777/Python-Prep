@@ -58,8 +58,10 @@ print (type(vari_comple))
 
 # In[1]:
 
-
 pi = 3.1416
+
+pi= round(3.1416,4)
+print(pi)
 
 
 # 8) Crear una variable que contenga el valor 'True' y otra que contenga el valor True. ¿Se trata de lo mismo?
